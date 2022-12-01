@@ -8,9 +8,7 @@ from urllib import parse
 import requests as req
 from bs4 import BeautifulSoup as bs
 
-# # 隨機取得 User-Agent
-# from fake_useragent import UserAgent
-# ua = UserAgent(cache=True) # cache=True 表示從已經儲存的列表中提取
+
 
 '''放置 金庸小說 metadata 的資訊'''
 listData = []
